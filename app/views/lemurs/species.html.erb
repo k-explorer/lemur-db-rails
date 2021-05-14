@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Main Species</h1>
+    <ol>
+      <% @species.each do |species| %>
+        <li>
+          <a href="/species/<%= species.id %>">
+            <%= species.name %> (<%= species.scientific_name %>)
+          </a>
+        </li>
+      <% end %>
+    </ol>
+  </body>
+</html>

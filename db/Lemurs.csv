@@ -1,0 +1,45 @@
+ID,Name,Size,Scientific_Name,IUCN_Category,Population_Trend,Area
+1,"Hairy-eared dwarf lemur",Small,"Allocebus trichotis",Endangered,Decreasing,Northeast
+2,"Eastern Woolly Lemur",Medium,"Avahi laniger",Vulnerable,Decreasing,Northeast
+3,"Southern Woolly Lemur",Medium,"Avahi meridionalis",Endangered,Decreasing,Southeast
+4,"Western Wooly Lemur",Medium,"Avahi occidentalis",Vulnerable,Decreasing,Northwest
+5,"Sambirano Wooly Lemur",Medium,"Avahi unicolor","Critically Endangered",Decreasing,Northwest
+6,"Bemaraha Wooly Lemur",Medium,"Avahi cleesei","Critically Endangered",Decreasing,West
+7,"Betsileo Wooly Lemur",Medium,"Avahi betsileo",Endangered,Decreasing,East
+8,"Moore's Wooly Lemur",Medium,"Avahi mooreorum",Endangered,Decreasing,Northeast
+9,"Western Wooly Lemur",Medium,"Avahi ramanantsoavanai",Vulnerable,Decreasing,Southeast
+10,Aye-aye,Small,"Daubentonia madagascariensis",Endangered,Decreasing,East
+11,"White-Collared Lemur",Medium,"Eulemur cinereiceps","Critically Endangered",Decreasing,Southeast
+12,"Collared Brown Lemur",Medium,"Eulemur collaris",Endangered,Decreasing,Southeast
+13,"Blue-eyed Black Lemur",Medium,"Eulemur flavifrons","Critically Endangered",Decreasing,Northwest
+14,"Mongoose Lemur",Medium,"Eulemur mongoz","Critically Endangered",Decreasing,Northwest
+15,"Lac Alaotra Bamboo Lemur",Medium,"Hapalemur alaotrensis","Critically Endangered",Decreasing,Northeast
+16,"Golden Bamboo Lemur",Medium,"Hapalemur aureus","Critically Endangered",Decreasing,Southeast
+17,"Eastern Lesser Bamboo Lemur",Medium,"Hapalemur griseus griseus",Vulnerable,Decreasing,East
+18,"Eastern Lesser Bamboo Lemur",Medium,"Hapalemur griseus ranomafanensis",Vulnerable,Decreasing,West
+19,"Rusty-gray Lesser Bamboo Lemur",Medium,"Hapalemur meridionalis",Vulnerable,Decreasing,Southeast
+20,"Western Lesser Bamboo Lemur",Medium,"Hapalemur occidentalis",Vulnerable,Decreasing,North
+21,Indri(Babakoto),Large,"Indri indri","Critically Endangered",Decreasing,Northeast
+22,"Ring-tailed Lemur",Medium,"Lemur catta",Endangered,Decreasing,South
+23,"Milne-Edwards's Sportive Lemur",Small,"Lepilemur edwardsi",Endangered,Decreasing,Northwest
+24,"White-Footed Sportive Lemur",Small,"Lepilemur leucopus",Endangered,Decreasing,Southeast
+25,"Small-Toothed Sportive Lemur",Small,"Lepilemur microdon",Endangered,Decreasing,Southeast
+26,"Weasel Sportive Lemur",Small,"Lepilemur mustelinus",Vulnerable,Decreasing,Northeast
+27,"Red-Tailed Sportive Lemur",Small,"Lepilemur ruficaudatus","Critically Endangered",Decreasing,East
+28,"Sahamalaza Sportive Lemur",Small,"Lepilemur sahamalazensis","Critically Endangered",Decreasing,Northwest
+29,"Sahafary Sportive Lemur",Small,"Lepilemur septentrionalis","Critically Endangered",Decreasing,Northeast
+30,"Madame Berthe's Mouse Lemur",Small,"Microcebus berthae","Critically Endangered",Decreasing,West
+31,"Gray-Brown Mouse Lemur",Small,"Microcebus griseorufus","Least Concern",Decreasing,South
+32,"Gray Mouse Lemur",Small,"Microcebus murinus","Least Concern",Decreasing,West
+33,"Pygmy Mouse Lemur",Small,"Microcebus myoxinus",Vulnerable,Decreasing,Northwest
+34,"Brown Mouse Lemur",Small,"Microcebus rufus",Vulnerable,Decreasing,Southeast
+35,"Greater Bamboo Lemur",Medium,"Prolemur simus","Critically Endangered",Decreasing,East
+36,"Silky Sifaka",Medium,"Propithecus candidus","Critically Endangered",Decreasing,North
+37,"Coquerel's Sifaka",Medium,"Propithecus coquereli","Critically Endangered",Decreasing,Northwest
+38,"Diademed Sifaka",Medium,"Propithecus diadema","Critically Endangered",Decreasing,Northeast
+39,"Milne-Edwards's Sifaka",Medium,"Propithecus edwardsi",Endangered,Decreasing,East
+40,"Perrier's Sifaka",Medium,"Propithecus perrieri","Critically Endangered",Decreasing,Northeast
+41,"Golden-Crowned Sifaka",Small-Medium,"Propithecus tattersalli","Critically Endangered",Decreasing,Northeast
+42,"Verreaux's Sifaka",Medium,"Propithecus verreauxi","Critically Endangered",Decreasing,South
+43,"Red Ruffed Lemur",Medium,"Varecia variegata rubra","Critically Endangered",Decreasing,East
+44,"Black-and-white ruffed lemur",Medium,"Varecia variegata variegata","Critically Endangered",Decreasing,East
