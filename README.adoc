@@ -1,0 +1,13 @@
+== The Lemurs DB
+
+
+This Ruby on Rails app shows information about Lemurs. The app uses Rails data manipulation features, extracting and printing data from development.sqlite3 in the `db` folder
+
+[source,SQL]
+----
+-- SQLite3 is an SQL database.
+  SELECT *
+  FROM Repos
+  WHERE Name
+  LIKE "%lemur-db-rails%";
+----
